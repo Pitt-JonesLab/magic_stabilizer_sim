@@ -1,6 +1,8 @@
 # magic_stabilizer_sim
 
 ____
+https://qiskit.org/documentation/tutorials/simulators/6_extended_stabilizer_tutorial.html
+
 #### Paper Dump
 - https://research.ibm.com/publications/simulation-of-quantum-circuits-by-low-rank-stabilizer-decompositions
 
