@@ -4,6 +4,7 @@ ____
 https://qiskit.org/documentation/tutorials/simulators/6_extended_stabilizer_tutorial.html
 
 #### Paper Dump
+- https://www.youtube.com/watch?v=uMGaXEx5p3I
 - https://research.ibm.com/publications/simulation-of-quantum-circuits-by-low-rank-stabilizer-decompositions
 
 - https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.010345
